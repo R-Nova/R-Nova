@@ -71,11 +71,11 @@
 
   <!-- Subtitle -->
   <text
-    x="50%"
-    y="72%"
+    x="500%"
+    y="702%"
     text-anchor="middle"
     font-family="Poppins, sans-serif"
-    font-size="30"
+    font-size="100"
     fill="#FFFFFF"
     opacity="0.9"
   >
