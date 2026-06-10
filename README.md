@@ -2,7 +2,7 @@
 ![banner](https://github.com/user-attachments/assets/your-custom-banner-image.png)
 
 # 👋 Hi there, I'm **Francis Jossy**  
-### 💡 A Senior Data Analyst & IT project manager | Full Stack Web Developer | DevOps Architect in Training | AWS | Cloud Infrastructure | Digital Solutionist Machine Learning & Deep Learning Enthusiast | Bioinformatician  
+### 💡 A Senior Data Analyst & IT project manager | Full Stack Web Developer | DevOps Architect in Training | AWS | Cloud Infrastructure | Digital Solutionist Machine Learning & Prompt Engineer | Bioinformatician  
 
 > *"As a senior data analyst don't let those numbers scare you — numbers can tell the best story. Let's grow your business and make a graphic beauty out of those messy data."*
 > *As a DevOps Architect building security is not just required, it is a necessity.*
