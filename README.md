@@ -2,17 +2,18 @@
 ![banner](https://github.com/user-attachments/assets/your-custom-banner-image.png)
 
 # 👋 Hi there, I'm **Francis Jossy**  
-### 💡 Data Analyst | Web Developer | Machine Learning & Deep Learning Enthusiast | Bioinformatician  
+### 💡 A Senior Data Analyst & IT project manager | Full Stack Web Developer | DevOps Architect in Training | AWS | Cloud Infrastructure | Digital Solutionist Machine Learning & Deep Learning Enthusiast | Bioinformatician  
 
-> *"Don't let those numbers scare you — numbers can tell the best story. Let's grow your business and make a graphic beauty out of those messy data."*
+> *"As a senior data analyst don't let those numbers scare you — numbers can tell the best story. Let's grow your business and make a graphic beauty out of those messy data."*
+> *As a DevOps Architect building security is not just required, it is a necessity.*
 
 ---
 
 ## 🧠 About Me  
-- 🎯 Passionate about transforming complex data into simple, actionable insights  
-- 🧬 Integrating **AI, machine learning**, and **bioinformatics** for innovative solutions  
-- 🧩 Skilled in both **data analytics** and **web development** — turning raw data into visual stories  
-- 🌍 Open to collaborations, research, and real-world data projects  
+- 🎯 Passionate about providing automated digital solutions, actionable insights  
+- 🧬 Integrating **AI, machine learning**, and **bioinformatics in science and technological innovations**
+- 🧩 Skilled in both **data analytics** and **DevOps Architect** — turning raw data into visual stories and build secured automated systems to keep that data safe. 
+- 🌍 Open to collaborations, research, and real-world automated projects  
 
 ---
 
