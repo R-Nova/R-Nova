@@ -52,9 +52,9 @@ Here’s a glimpse of my visual experiments, dashboards, and design-focused data
 
 ## 💬 Let's Connect  
 
-[![Email](https://img.shields.io/badge/Email-novareasearcher@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:novareasearcher@gmail.com)
+[![Email](https://img.shields.io/badge/Email-reasearch.novascience@gmail.com-blue?style=for-the-badge&logo=gmail)](reasearch.novascience@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@JossyFrancis-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JossyFrancis)
-[![GitHub](https://img.shields.io/badge/GitHub-FrancisJossy-181717?style=for-the-badge&logo=github)](https://github.com/francisjossy)
+[![GitHub](https://img.shields.io/badge/GitHub-FrancisJossy-181717?style=for-the-badge&logo=github)]((https://github.com/R-Nova))
 
 ---
 
